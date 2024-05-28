@@ -8,5 +8,4 @@ npm-debug.log
 *.iws
 *.ipr
 out/
-dist
 tools/gen.ts
