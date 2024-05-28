@@ -1,5 +1,5 @@
 import * as os from "os";
-import path from "node:path";
+import path from "path";
 import wchar from "./wchar";
 
 export const getDll = () => {
